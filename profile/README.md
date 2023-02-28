@@ -1,2 +1,2 @@
-### Namaz Vakti
-- [Api Swagger](https://api.namazvakti.app/docs/)
+### Namaz Vakti API
+- [Swagger](https://api.namazvakti.app/docs/)
